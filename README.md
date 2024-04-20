@@ -87,6 +87,8 @@ cload "lord" (lord.basの場合)
 ## ソースコードについての御注意
 　ソースコードはシフトJISで開くとアルファベットとカナは閲覧できますが、グラフィックキャラクターは全て化けます。UTF-8で開くとカナも化けます。普通の方法で全ての文字を見ることはできないことに注意してください。完全なソースコードは実機またはエミュレータに読み込んでlistコマンドで見てください。
 
+　ソースコード中のAkira KitaおよびAkiは当時の川俣のペンネームです。
+
 This program was created by Akira Kawamata in 1982-1985.
 
 This program is distributed under the terms of the MIT License.
